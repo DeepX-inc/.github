@@ -15,6 +15,7 @@ PR Metadata
 -->
 
 ### Check the Pull Request Type:
+<!--- Put an `x` in the box that applies. -->
 
 1. [ ] Implementation of new feature(s)
 2. [ ] Bug fixes or enhancements
