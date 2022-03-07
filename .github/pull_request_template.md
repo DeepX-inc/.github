@@ -45,8 +45,8 @@ PR Metadata
 
 - [ ] Have you filled the sections above?
 - [ ] Have you added appropriate labels to this PR?
-- [ ] Have you checked to ensure there aren't other open [Pull Requests](../../../pulls) for the same update/change?
-- [ ] Have you linked [Issues](../../../issues) related to these changes?
+- [ ] Have you checked to ensure there aren't other open [Pull Requests](../pulls) for the same update/change?
+- [ ] Have you linked [Issues](../issues) related to these changes?
 - [ ] Have you documented your changes were appropriate?
 - [ ] Have you written new tests for your changes?
 - [ ] Have you followed the DeepX styling guidelines?
