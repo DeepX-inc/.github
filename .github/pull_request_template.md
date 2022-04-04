@@ -26,6 +26,13 @@ PR Metadata
 ### Motivation and Context
 <!--- Why is this change required? What problem does it solve? -->
 
+### How Has This Been Tested?
+<!--- Please describe in detail how you tested your changes. -->
+<!--- Readers can use this info to verify or try the changes. -->
+<!--- - Code snippet with the commands you used to test this locally. -->
+<!--- - Link to relevant CI run. -->
+<!--- - Other useful info for reviewers. -->
+
 ### Checklist
 <!--- Put an `x` in the boxes that apply. -->
 
