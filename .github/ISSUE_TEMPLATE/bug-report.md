@@ -18,7 +18,7 @@ A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
-Don't upload confidential images. Images in Issue will be accessible from everyone outside DeepX-inc.
+Don't upload confidential images. Images in GitHub Issues will be accessible from everyone outside DeepX-inc.
 
 **System Information:**
 - OS: [e.g. iOS]
