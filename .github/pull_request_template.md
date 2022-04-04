@@ -17,7 +17,7 @@ PR Metadata
 ### Description
 <!--- Describe your changes in detail -->
 
-### Related GitHub Issues and/or ClickUp Task(s)
+### Related GitHub [Issues](../issues) and/or ClickUp Task(s)
 <!--- This project only accepts pull requests related to open GitHub Issues or ClickUp task(s) -->
 <!--- If suggesting a new feature or change, please discuss it in a GitHub issue or ClickUp task first -->
 <!--- If fixing a bug, there should be a GitHub issue or ClickUp task describing it with steps to reproduce -->
@@ -31,9 +31,8 @@ PR Metadata
 
 - [ ] Have you filled the sections above?
 - [ ] Have you checked to ensure there aren't other open [Pull Requests](../pulls) for the same GitHub Issues/ClickUp Task(s)?
-- [ ] Have you linked the GitHub [Issues](../issues) and/or ClickUp Task(s) related to these changes?
-- [ ] Have you documented the changes in GitHub Issues and/or ClickUp Task(s) related to this PR?
-- [ ] Have you added labels, where appropriate, to this PR?
+- [ ] Have you documented the changes in GitHub Issues and/or ClickUp Task(s) related to this Pull Request?
+- [ ] Have you added labels, where appropriate, to this Pull Request?
 
 ### Screenshot 
 <!--- Include any relevant screenshot. -->
