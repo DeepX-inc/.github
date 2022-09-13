@@ -2,9 +2,11 @@
 
 ## Important Notice
 
-This repository is public.
-* **Do not commit any sensitive information**. Commit changes can be viewed by third parties.
-* This includes links to other internal tools (e.g. ClickUp, Lucidchart, Google Docs, etc.)
+**Do not commit any sensitive information**
+
+* This repository is public.
+* Commit changes can be viewed by third parties.
+* Do not include links to our internal tools (e.g. ClickUp, Lucidchart, Google Docs, etc.)
 
 ## Overview
 
