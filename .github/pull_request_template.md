@@ -17,12 +17,6 @@ PR Metadata
 ### Description
 <!--- Describe your changes in detail -->
 
-### Related GitHub [Issues](../issues) and/or ClickUp Task(s)
-<!--- This project only accepts pull requests related to open GitHub Issues or ClickUp task(s) -->
-<!--- If suggesting a new feature or change, please discuss it in a GitHub issue or ClickUp task first -->
-<!--- If fixing a bug, there should be a GitHub issue or ClickUp task describing it with steps to reproduce -->
-<!--- Please link to the GitHub issue and/or ClickUp task here: -->
-
 ### Motivation and Context
 <!--- Why is this change required? What problem does it solve? -->
 
