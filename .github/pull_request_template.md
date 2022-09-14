@@ -36,6 +36,8 @@ PR Metadata
 - [ ] Have you documented the changes in GitHub Issues and/or ClickUp Task(s) related to this Pull Request?
 - [ ] Have you added labels, where appropriate, to this Pull Request?
 
-### Screenshot 
-<!--- Include any relevant screenshot. -->
-<!-- Don't upload confidential images. Images in GitHub Issues will be accessible from everyone outside DeepX-inc. -->
+<!--
+Do not include screenshots.
+- These will be accessible from everyone outside DeepX-inc.
+- Add them to the ClickUp task instead.
+-->
