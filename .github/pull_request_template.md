@@ -26,7 +26,7 @@ PR Metadata
 <!--- Readers can use this info to verify or try the changes. -->
 <!--- - Code snippet with the commands you used to test this locally. -->
 <!--- - Link to relevant CI run. -->
-<!--- - Other useful info for reviewers. -->
+<!--- - Other useful info for reviewers, you can include screenshots here. -->
 
 ### Checklist
 <!--- Put an `x` in the boxes that apply. -->
@@ -35,9 +35,3 @@ PR Metadata
 - [ ] Have you checked to ensure there aren't other open [Pull Requests](../pulls) for the same GitHub Issues/ClickUp Task(s)?
 - [ ] Have you documented the changes in GitHub Issues and/or ClickUp Task(s) related to this Pull Request?
 - [ ] Have you added labels, where appropriate, to this Pull Request?
-
-<!--
-Do not include screenshots.
-- These will be accessible from everyone outside DeepX-inc.
-- Add them to the ClickUp task instead.
--->
