@@ -36,7 +36,7 @@ If the description gets too big, you can use H4 subsections `####`.
 
 Remember to mention other relevant PRs.
 - For example, PRs that this one depends on.
-- When mentioning PRs, we recommend using the this format `- #123` in a new line. This will expand the PR to show its title and status. For example:
+- When mentioning PRs, we recommend using the following format: `- #123` in a new line. This will expand the PR to show its title and status. For example:
 - #3
 
 ### Motivation and Context
