@@ -1,6 +1,6 @@
 <!--
 - Please fill the sections below and the PR metadata.
-- Make it readable to reviewers and future visitors.
+- Make it readable for reviewers and future visitors.
 -->
 
 ### Description
