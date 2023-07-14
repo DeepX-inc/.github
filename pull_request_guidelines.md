@@ -32,7 +32,7 @@ Setting PR metadata:
 
 Describe your changes in detail.
 
-If the description gets too big, you can use H4 subsections `####`.
+If the description gets too big you can use H4 subsections `####`.
 
 Remember to mention other relevant PRs.
 - For example, PRs that this one depends on.
