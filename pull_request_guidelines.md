@@ -24,7 +24,7 @@ Setting PR metadata:
     - Only assign reviewers when the PR is ready to be reviewed to avoid spam.
 - Labels:
     - Make wise use of the labels.
-    - In particular, remember to tag `breaking` changes or PRs to `do not merge`.
+    - In particular, remember to tag `breaking` changes or PRs with `do not merge` labels.
 
 ## PR Description
 
