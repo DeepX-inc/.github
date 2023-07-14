@@ -60,7 +60,7 @@ For example:
 
 #### Pro-Tip: Use code-snippets to show how you tested it
 
-I verified the system works running this test:
+I verified that the system works by running this test:
 ```bash
 cd /root/code/tests/
 pytest-3 test_my_library.py
