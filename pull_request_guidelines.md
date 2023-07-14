@@ -41,7 +41,7 @@ Remember to mention other relevant PRs.
 
 ### Motivation and Context
 
-Explain why is this change required and what problem does it solve.
+Explain why this change is required and what problem it solves.
 
 ### How Has This Been Tested?
 
