@@ -2,7 +2,7 @@
 
 Making your PR stand-out.
 
-This guide supports the [PR Template](./.github/pull_request_template.md) used for all DeepX repositories.
+This guide supports the [PR Template](./.github/pull_request_template.md) used by all DeepX repositories.
 
 Having a readable PR is critical to speed-up reviewing and support future readers.
 
