@@ -4,7 +4,7 @@ Making your PR stand-out.
 
 This guide supports the [PR Template](./.github/pull_request_template.md) used by all DeepX repositories.
 
-Having a readable PR is critical to speed-up reviewing and support future readers.
+Having a readable PR is critical to speed-up the review process and to support future readers.
 
 As a reviewer, please ask for the template to be filled.
 
