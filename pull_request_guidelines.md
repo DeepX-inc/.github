@@ -21,7 +21,7 @@ Setting PR metadata:
     - Create the PR as a draft.
     - Only set it to non-draft when it is ready to be reviewed to avoid spam.
 - Reviewers:
-    - Only assign reviewers when the PR is ready to be reviewed. Avoid spam.
+    - Only assign reviewers when the PR is ready to be reviewed to avoid spam.
 - Labels:
     - Make wise use of the labels.
     - In particular, remember to tag `breaking` changes or PRs to `do not merge`.
