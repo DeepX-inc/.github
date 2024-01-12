@@ -16,4 +16,6 @@
 <br>
 ---
 
-- [PR Guidelines](https://github.com/DeepX-inc/.github/blob/main/pull_request_guidelines.md)
+- [DeepX PR Guidelines](https://github.com/DeepX-inc/.github/blob/main/pull_request_guidelines.md) - for descriptions and metadata.
+- [Google Code Review Guidelines](https://google.github.io/eng-practices/) - for [authors](https://google.github.io/eng-practices/review/developer/) and [reviewers](https://google.github.io/eng-practices/review/reviewer/).
+- [Semantic Code Reviews](https://www.m31coding.com/blog/semantic-reviews.html) - Simple and direct comments without drama.
